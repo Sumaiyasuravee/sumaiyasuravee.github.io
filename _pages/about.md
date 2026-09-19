@@ -20,8 +20,7 @@ My research has appeared in venues including ACM Computing Surveys, Frontiers in
 
 ## Research interests
 
-- Natural language processing and large language models
-- Semantic knowledge extraction
+- Named entity recognition
 - Ontologies and knowledge graphs
 - Retrieval-augmented generation and GraphRAG
 - Data annotation and text quality assessment
