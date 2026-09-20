@@ -16,8 +16,6 @@ I completed my PhD at the University of Greifswald, where my research focused on
 - Developing domain-specific ontologies and methods for populating knowledge graphs.
 - Integrating ontologies into GraphRAG-based chatbots for informal caregivers of people with dementia.
 
-My research has appeared in venues including ACM Computing Surveys, Frontiers in Aging, RANLP, and workshops associated with IEEE PerCom, ECAI and EMNLP. I also contribute to the ARDUOUS initiative as a programme committee member, review research papers, and supervise master's thesis students.
-
 ## Research interests
 
 - Named entity recognition
@@ -25,6 +23,14 @@ My research has appeared in venues including ACM Computing Surveys, Frontiers in
 - Retrieval-augmented generation and GraphRAG
 - Data annotation and text quality assessment
 - AI for dementia care and behaviour analysis
+
+<a class="cv-file-card" href="/files/Resume_Sumaiya_Suravee.pdf" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf" aria-hidden="true"></i>
+  <span>
+    <span class="cv-file-card__name">Resume_Sumaiya_Suravee.pdf</span>
+    <span class="cv-file-card__label">Download File</span>
+  </span>
+</a>
 
 ## Education
 

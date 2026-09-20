@@ -5,79 +5,61 @@ layout: single
 author_profile: true
 ---
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">Postdoctoral Researcher</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>University of Greifswald, Germany</strong> &middot; April 2026 &ndash; Present</p>
-    <ul>
-      <li>Dealing with the development and implementation of methods for automatic knowledge extraction, multimodal behaviour analysis of people with dementia.</li>
-      <li>Designing experiments using transformer-based architecture on activity recognition datasets.</li>
-      <li>Co-supervising doctoral students and managing the BehAIve project (Behaviour Monitoring and Support of Older Adults; see <a href="https://datascience.uni-greifswald.de/forschung/projects/behaive/">project page</a>).</li>
-    </ul>
-  </article>
-</div>
+<div class="timeline">
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">Research Associate</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>Greifswald University Medicine, Germany</strong> &middot; January 2026 &ndash; March 2026</p>
-    <ul>
-      <li>Developed a Python package for data quality assessment for the ICD-10GM, SNOMED CT, and OPS codes.</li>
-      <li>Worked on an information retrieval task using large language models (LLMs) on histology texts collected from the Universitätsmedizin Greifswald.</li>
-      <li>Assessed the quality of online forum texts using a machine learning-based algorithm.</li>
-    </ul>
-  </article>
-</div>
+  <div class="timeline-item is-current">
+    <div class="timeline-card">
+      <div class="timeline-logo"><img src="/images/logos/university-of-greifswald.png" alt="University of Greifswald logo"></div>
+      <div class="timeline-info">
+        <p class="timeline-role">Postdoctoral Researcher</p>
+        <p class="timeline-employer">University of Greifswald</p>
+        <p class="timeline-meta">April 2026 &ndash; Present<br>Greifswald, Germany</p>
+      </div>
+    </div>
+  </div>
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">Research Associate</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>University of Greifswald, Germany</strong> &middot; December 2022 &ndash; December 2025</p>
-    <ul>
-      <li>Investigated automated methods for extracting knowledge from dementia-domain-specific informal forum texts.</li>
-      <li>Developed an experimental pipeline for named entity recognition (NER) and relation extraction from dementia-based textual data using LLMs.</li>
-      <li>Investigated the performance of LLMs for the data annotation task.</li>
-      <li>Developed a GraphRAG-based chatbot for informal caregivers of people with dementia by incorporating a domain-specific ontology.</li>
-      <li>Developed an experimental pipeline for populating an ontology and knowledge graph.</li>
-    </ul>
-  </article>
-</div>
+  <div class="timeline-item">
+    <div class="timeline-card">
+      <div class="timeline-logo"><img src="/images/logos/universitaetsmedizin-greifswald.png" alt="Universitätsmedizin Greifswald logo"></div>
+      <div class="timeline-info">
+        <p class="timeline-role">Research Associate</p>
+        <p class="timeline-employer">Greifswald University Medicine</p>
+        <p class="timeline-meta">January 2026 &ndash; March 2026<br>Greifswald, Germany</p>
+      </div>
+    </div>
+  </div>
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">Research Associate</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>University of Rostock, Germany</strong> &middot; July 2020 &ndash; November 2022</p>
-    <ul>
-      <li>Developed eDEM-Connect: an ontology of dementia-related agitation and the relationship between informal caregivers and persons with dementia.</li>
-      <li>Developed an annotation scheme and an informal dementia forum corpus, scraped from dementia-related textual data.</li>
-    </ul>
-  </article>
-</div>
+  <div class="timeline-item">
+    <div class="timeline-card">
+      <div class="timeline-logo"><img src="/images/logos/university-of-greifswald.png" alt="University of Greifswald logo"></div>
+      <div class="timeline-info">
+        <p class="timeline-role">Research Associate</p>
+        <p class="timeline-employer">University of Greifswald</p>
+        <p class="timeline-meta">December 2022 &ndash; December 2025<br>Greifswald, Germany</p>
+      </div>
+    </div>
+  </div>
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">Master's Thesis Student</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>Planet AI GmbH, Rostock, Germany</strong> &middot; October 2019 &ndash; June 2020</p>
-    <ul>
-      <li>Conducted literature research on several optimisers for NLP tasks such as NER systems and word embeddings.</li>
-      <li>Implemented optimisers including Stochastic Gradient Descent, Adam, Nadam, and Ranger, and analysed their performance on a NER system using the CoNLL-2003 dataset.</li>
-      <li>Worked on semantic word representation using Word2Vec, GloVe, and fastText embeddings with the CoNLL-2003 dataset.</li>
-    </ul>
-  </article>
-</div>
+  <div class="timeline-item">
+    <div class="timeline-card">
+      <div class="timeline-logo"><img src="/images/logos/university-of-rostock.png" alt="University of Rostock logo"></div>
+      <div class="timeline-info">
+        <p class="timeline-role">Research Associate</p>
+        <p class="timeline-employer">University of Rostock</p>
+        <p class="timeline-meta">July 2020 &ndash; November 2022<br>Rostock, Germany</p>
+      </div>
+    </div>
+  </div>
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">R&amp;D Intern in NLP</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>Planet AI GmbH, Rostock, Germany</strong> &middot; April 2019 &ndash; September 2019</p>
-    <p>Evaluated the performance of a bidirectional LSTM-CNN-CRF NER model in TensorFlow.</p>
-  </article>
-</div>
+  <div class="timeline-item">
+    <div class="timeline-card">
+      <div class="timeline-logo"><img src="/images/logos/planet-ai.png" alt="Planet AI GmbH logo"></div>
+      <div class="timeline-info">
+        <p class="timeline-role">R&amp;D Intern in NLP and Master Thesis Student</p>
+        <p class="timeline-employer">Planet AI GmbH</p>
+        <p class="timeline-meta">April 2019 &ndash; June 2020<br>Rostock, Germany</p>
+      </div>
+    </div>
+  </div>
 
-<div class="list__item">
-  <article class="archive__item">
-    <h2 class="archive__item-title">Research Assistant</h2>
-    <p class="page__meta" style="color: var(--global-text-color); font-size: 1rem;"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i> <strong>PIA care, Rostock, Germany</strong> &middot; October 2018 &ndash; March 2019</p>
-    <p>Automatic face detection from images and videos using deep learning-based algorithms (Faster R-CNN and Single Shot Multibox Detector).</p>
-  </article>
 </div>
